@@ -1,12 +1,13 @@
 # SPA WebSite using Laravel and Vue
-Este projeto consiste na criação de uma aplicação web, com foco no SPA, utilizando as framework Laravel e Vue.
+Este projeto consiste na criação de uma aplicação web, com foco no SPA e em Engenharia de Requisitos, utilizando as framework Laravel e Vue. Para este projeto foi elaborado uma identificação do âmbito, visão, stakeholders e funcionalidades nucleares ao projeto. De seguida foi elicitado os requisitos de tecnologa, negocio, de utilizador, funcionais, não funcionais e de dados, em conjunto com ma tabela de rastreio com prioridades. Por fim, foi construido os diagramas: conxtetual, fluxo de dados, swimlane e use Case. 
+
+diagramas use-case, uma tabela de
+rastreio e uma tabela de priorização, tornando assim logisticamente possível desenvolver a
+LetMeFix.
 
 # Laravel-Vue-SPA
 
 This repository is the result of creating a SPA (Single Page Application) with role-based authentication with Laravel and Vue.
-
-This tutorial is available [here](https://medium.com/@ripoche.b/create-a-spa-with-role-based-authentication-with-laravel-and-vue-js-ac4b260b882f) (version française [ici](https://medium.com/@ripoche.b/cr%C3%A9er-une-spa-avec-authentification-par-r%C3%B4les-avec-laravel-et-vue-js-e69782ac6896)).
-
 ## Prerequiries
 
 - PHP 7
